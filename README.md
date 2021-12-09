@@ -6,7 +6,7 @@ It will show two different weather screen(winter and summer) based on user's cur
 ## Topics Covered
 
 - React Framework
-- Config object
+- Config Object
 - Spinner Animation
 - JS Modules
 
